@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mtzdev
 - 👀 I’m interested in Lua and Javascript
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects with FiveM
