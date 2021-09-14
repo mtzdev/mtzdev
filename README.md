@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mtzdev
-- 👀 I’m interested in Lua and Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and Lua
+- 🌱 I’m currently learning JavaScript and Node.JS
