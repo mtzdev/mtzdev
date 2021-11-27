@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mtzdev
 - 👀 I’m interested in Python and Lua
 - 🌱 I’m currently learning JavaScript and Node.JS
+- 📞 Discord -> mtz#9765
